@@ -1,0 +1,21 @@
+[
+  { "token": "for", "candidates": [ { "code": 5, "weight": 1.0 } ], "flags": { "positional": true }, "source": "seed" },
+  { "token": "of",  "candidates": [ { "code": 5, "weight": 1.0 } ], "flags": { "positional": true }, "source": "seed" },
+  { "token": "with", "candidates": [ { "code": 5, "weight": 1.0 } ], "flags": { "positional": true }, "source": "seed" },
+  { "token": "by", "candidates": [ { "code": 5, "weight": 1.0 } ], "flags": { "positional": true }, "source": "seed" },
+  { "token": "through", "candidates": [ { "code": 5 } ], "flags": { "positional": true }, "source": "seed" },
+  { "token": "in", "candidates": [ { "code": 5 } ], "flags": { "positional": true }, "source": "seed" },
+  { "token": "the", "candidates": [ { "code": 6, "weight": 1.0 } ], "source": "seed" },
+  { "token": "this", "candidates": [ { "code": 6 } ], "source": "seed" },
+  { "token": "a", "candidates": [ { "code": 6 } ], "source": "seed" },
+  { "token": "an", "candidates": [ { "code": 6 } ], "source": "seed" },
+  { "token": "and", "candidates": [ { "code": 0 } ], "source": "seed" },
+  { "token": "or", "candidates": [ { "code": 0 } ], "source": "seed" },
+  { "token": "is", "candidates": [ { "code": 2 } ], "source": "seed" },
+  { "token": "are", "candidates": [ { "code": 2 } ], "source": "seed" },
+  { "token": "was", "candidates": [ { "code": 8 } ], "flags": { "time_marker": true }, "source": "seed" },
+  { "token": "were", "candidates": [ { "code": 8 } ], "flags": { "time_marker": true }, "source": "seed" },
+  { "token": "will", "candidates": [ { "code": 9 } ], "flags": { "time_marker": true }, "source": "seed" },
+  { "token": "shall", "candidates": [ { "code": 9 } ], "flags": { "time_marker": true }, "source": "seed" },
+  { "token": "no", "candidates": [ { "code": 1 } ], "source": "seed" }
+]

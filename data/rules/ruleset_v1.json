@@ -1,0 +1,16 @@
+[
+  {
+    "id": "RULE_PREP_ART_NOUN",
+    "pattern": [5, 6, 7],
+    "description": "Preposition must be followed by Article then Noun",
+    "must_be_contiguous": true,
+    "severity": 0.9
+  },
+  {
+    "id": "RULE_NO_VERB_ENDING",
+    "pattern": [2],
+    "description": "Sentence cannot terminate in a Verb",
+    "constraint": "NOT_AT_END",
+    "severity": 0.8
+  }
+]
